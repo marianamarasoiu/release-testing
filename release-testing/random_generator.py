@@ -1,2 +1,5 @@
-def generate_random_number():
-  return 42
+
+class RandomGenerator(object):
+  
+  def generate_random_number(self):
+    return 42
